@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    background-color: tomato;
+    height: 100vh;
+}
+
+a{
+    display: flex;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+    margin: auto;
+}
+a:hover{
+    font-size: 51px;
+}
